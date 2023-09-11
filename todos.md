@@ -1,5 +1,5 @@
 Todos:
-- [ ] Create the screen
+- [x] Create the screen
 - [ ] Create and move paddle
 - [ ] Create another paddle
 - [ ] Create the ball and make it move
